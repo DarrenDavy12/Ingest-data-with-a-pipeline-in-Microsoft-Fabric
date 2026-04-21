@@ -99,7 +99,7 @@ df = df["SalesOrderNumber", "SalesOrderLineNumber", "OrderDate",
 df.write.format("delta").mode("append").saveAsTable(table_name)
 ```
 
-1. Modify Pipeline
+6. Modify Pipeline
 
 Added orchestration logic:
 

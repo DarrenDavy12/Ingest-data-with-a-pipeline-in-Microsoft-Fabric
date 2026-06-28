@@ -4,7 +4,7 @@ This project demonstrates how to build an end-to-end data ingestion pipeline in 
 
 🚀 Overview
 
-In this lab, we implemented a full ETL pipeline that:
+In this lab, we implemented a full ELT pipeline that:
 
 Extracts data from an external HTTP source
 Loads it into a Fabric Lakehouse
